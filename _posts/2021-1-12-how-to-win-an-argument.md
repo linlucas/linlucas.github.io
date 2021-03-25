@@ -3,7 +3,7 @@ layout: post
 title: How to Win an Argument (Online)
 ---
 
-(_disclaimer: this is a rough transcription of a [3kliksphilp](https://www.youtube.com/channel/UCmu9PVIZBk-ZCi-Sk2F2utA) video in 2008._)Winning an argument on the internet is a little different than doing so in real life, mainly because it's online so you are limited to your keyboard, but on the plus side you won't get punched in the face by a victim of your online spew of abuse. These limitations automatically bring about some new rules into the fray and I suggest you get used to them, as there's nothing you can do about it other than hoping they are stupid enough to accept virus_of_doom.exe over messenger.
+(_disclaimer: this is a rough transcription of a [3kliksphilp](https://www.youtube.com/channel/UCmu9PVIZBk-ZCi-Sk2F2utA) video in 2008._) Winning an argument on the internet is a little different than doing so in real life, mainly because it's online so you are limited to your keyboard, but on the plus side you won't get punched in the face by a victim of your online spew of abuse. These limitations automatically bring about some new rules into the fray and I suggest you get used to them, as there's nothing you can do about it other than hoping they are stupid enough to accept virus_of_doom.exe over messenger.
 
 **Part 1: Don't Care.** It sounds obvious but if you don't care you won't be able to lose an argument, simple as that. If somebody starts one with you then they are obviously angry about something. Keep it that way. As soon as you begin to care, the balance of power shifts and your chances of winning decrease dramatically. Imagine arguing with something that doesn't care, such as a wall. You can't win as there's nothing to argue with.
 

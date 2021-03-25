@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## Hello there ##
+Hello there,
 
 I am a student at Purdue University majoring in Computer Science. This website is a simple & lightweight landing page to showcase my notes and essays. Feel free to look around.

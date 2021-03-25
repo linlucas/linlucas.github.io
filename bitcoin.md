@@ -5,5 +5,6 @@ permalink: /bitcoin/
 ---
 
 
-zpub6o1PAqvebLawiZW2zEuzuChPq7ZL98fAW96WWLo6hC2FFaG7mZc  
+zpub6o1PAqvebLawiZW2zEuzuChPq7ZL98fAW96WWLo6hC2FFaG7mZc
+
 MVWg7rgypuymthsstRz6YThSXYybSAmLCNkWm77VURpn9zd4hbjtwQoW

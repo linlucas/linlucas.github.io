@@ -2,6 +2,18 @@
 layout: default
 ---
 
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-1C1P9T2T5F"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-1C1P9T2T5F');
+  </script>
+</head>
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">

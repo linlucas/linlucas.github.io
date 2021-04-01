@@ -85,4 +85,5 @@ exclude:
   - README.md
   - CNAME
 
+# Separate main content from the excerpt
 excerpt_separator: <!--main-->

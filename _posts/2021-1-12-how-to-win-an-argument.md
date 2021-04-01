@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How to Win an Argument (Online)
-tags: transcription
 excerpt_separator: <!--more-->
+tags: transcription
 ---
 
 excerpt: Winning an argument on the internet is a little different than doing so in real life, mainly because it's online so you are limited to your keyboard, but on the plus side you won't get punched in the face by a victim of your online spew of abuse. These limitations automatically bring about some new rules into the fray and I suggest you get used to them, as there's nothing you can do about it other than hoping they are stupid enough to accept virus_of_doom.exe over messenger.

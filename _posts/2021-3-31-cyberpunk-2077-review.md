@@ -16,6 +16,6 @@ If The Last of Us 2 on Playstation 4 proves anything, it's that beautiful games 
 
 Then there are the bugs, so many of them I can't keep count. At the start of the game, palm trees filled the bottom half of my screen because every palm tree in the city would clip through the building. At one point my car started ignoring collision physics, giving me the power to drive through oncoming traffic. Policemen would shoot me for no apparent reason, but when I commit a crime, all it takes is to drive 100 ft in a straight line because the police don't know how to drive. When the goal of the game is to convince a *choomba* that they live in a world 57 years into the future, any visual flaws will quickly undercut the immersion, not to mention game-breaking dialog problems.
 
-<!--main-->
+<!--excerpt-end-->
 
 I am never preordering a game again, I've learned from my mistake. There's nothing to do now but wait for CDPR to slowly row out performance patches and bug fixes. Who knows, maybe in a year the game will be everything it claims to be now. Perhaps there's nothing more cyberpunk than the launch itself - a soulless corporation forcing mandatory 12-hour workdays on engineers to deliver an unfinished product so they can squeeze some more *eddies* out of unaware consumers.

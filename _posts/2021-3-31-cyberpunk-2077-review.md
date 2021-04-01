@@ -2,6 +2,7 @@
 layout: post
 title: Cyberpunk 2077 Review
 tags: review
+excerpt: Hello there this is the excerpt
 ---
 
 ![Cyberpunk 2077 screenshot](/images/cyberpunk1.jpg)

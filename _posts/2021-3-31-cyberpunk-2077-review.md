@@ -8,7 +8,7 @@ tags: review
 
 <!--excerpt-->
 
-Cyberpunk promised an immersive, futuristic city packed with interesting characters and stories, but instead, the game feels like nothing more than a mediocre clone of Grand Theft Auto with some pretty visuals (if on the [off chance](https://www.pcmag.com/news/nvidia-it-may-take-a-few-months-for-rtx-3000-supplies-to-catch-up-with) you got a GeForce 3000 series card). It saddens me to say this because I know, deep down under the pile of bugs and performance issues, there is an intriguing narrative just waiting to be told.
+Cyberpunk promised an immersive, futuristic city packed with interesting characters and stories, but instead, the game feels like nothing more than a mediocre clone of Grand Theft Auto with some pretty visuals (if on the [off chance](https://www.digitaltrends.com/computing/gpu-shortage-q3-2020-double-triple-price/) you got a GeForce 3000 series card). It saddens me to say this because I know, deep down under the pile of bugs and performance issues, there is an intriguing narrative just waiting to be told.
 
 <!--excerpt-end-->
 

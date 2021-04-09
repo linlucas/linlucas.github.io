@@ -21,7 +21,7 @@ layout: default
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
-        {% assign excerptParts = post.excerpt | split: "<!--excerpt-->" %}
+        {% assign excerptParts = post.excerpt | split: "<!--excerpt-start-->" %}
         {{ excerptParts[1] | strip_newlines | truncatewords: 100 }}
       </div>
 

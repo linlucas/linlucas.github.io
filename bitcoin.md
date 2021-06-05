@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bitcoin master public key
+title: Send me Bitcoins
 permalink: /bitcoin/
 ---
 

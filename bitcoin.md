@@ -4,10 +4,4 @@ title: Bitcoin master public key
 permalink: /bitcoin/
 ---
 
-`zpub6np1EmNiqKbQkMWSvjN6qgij`
-
-`1dEiN1pauKZwmKpPxk2o2hgGicu`
-
-`RuUMAjDcCqPk1qn1QAp2uWMg14Zh2`
-
-`zdoqidya1tde6popUjvvpWgtWx9`
+{% include publickey.html %}

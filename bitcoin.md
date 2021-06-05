@@ -1,13 +1,7 @@
 ---
 layout: page
-title: Bitcoin public key
+title: Bitcoin master public key
 permalink: /bitcoin/
 ---
 
-`zpub6o1PAqvebLawiZW2zEuzuChP`
-
-`q7ZL98fAW96WWLo6hC2FFaG7mZcM`
-
-`VWg7rgypuymthsstRz6YThSXYybS`
-
-`AmLCNkWm77VURpn9zd4hbjtwQoW`
+zpub6np1EmNiqKbQkMWSvjN6qgij1dEiN1pauKZwmKpPxk2o2hgGicuRuUMAjDcCqPk1qn1QAp2uWMg14Zh2zdoqidya1tde6popUjvvpWgtWx9

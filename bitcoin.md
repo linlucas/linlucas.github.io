@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Send me Bitcoins :)
+title: Bitcoin address
 permalink: /bitcoin/
 ---
 
